@@ -1,0 +1,5 @@
+E:\GIT\OpticalCRM\OpticalCRM.Resources\bin\Debug\OpticalCRM.Resources.dll
+E:\GIT\OpticalCRM\OpticalCRM.Resources\bin\Debug\OpticalCRM.Resources.pdb
+E:\GIT\OpticalCRM\OpticalCRM.Resources\obj\Debug\OpticalCRM.Resources.csprojResolveAssemblyReference.cache
+E:\GIT\OpticalCRM\OpticalCRM.Resources\obj\Debug\OpticalCRM.Resources.dll
+E:\GIT\OpticalCRM\OpticalCRM.Resources\obj\Debug\OpticalCRM.Resources.pdb

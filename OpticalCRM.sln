@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.WebApi", "OpticalCRM.WebApi\OpticalCRM.WebApi.csproj", "{9BAEBD24-8850-40D8-A423-A9D0277CAEA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.Data", "OpticalCRM.Data\OpticalCRM.Data.csproj", "{13F0DA89-E452-4AAC-98C7-6404C407104F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.Auth", "OpticalCRM.Auth\OpticalCRM.Auth.csproj", "{196E300B-6EA8-4FFC-B34B-CAE4B363BAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.EntityFramework", "OpticalCRM.EntityFramework\OpticalCRM.EntityFramework.csproj", "{7C615505-3B68-4FF3-AB9A-042C5B395F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.Logs", "OpticalCRM.Logs\OpticalCRM.Logs.csproj", "{E6ABDDBB-C16A-4459-9619-03EE09D5D983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.Resources", "OpticalCRM.Resources\OpticalCRM.Resources.csproj", "{F1C12DDE-6DB3-4131-BF92-00F605A2269C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.Utility", "OpticalCRM.Utility\OpticalCRM.Utility.csproj", "{63858FCB-4CC8-47B5-8780-C0A7757B0B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.UnitTesting", "OpticalCRM.UnitTesting\OpticalCRM.UnitTesting.csproj", "{6D8F24E9-EC2B-4E52-A3ED-C33D2BC28F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCRM.WebMVC", "OpticalCRM.WebMVC\OpticalCRM.WebMVC.csproj", "{D9880769-DD53-4FEE-8AF5-C963A8F1D628}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OpticalCRM.Database", "OpticalCRM.Database\OpticalCRM.Database.sqlproj", "{4AF80729-A034-424B-8F18-AD906858A158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAEBD24-8850-40D8-A423-A9D0277CAEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAEBD24-8850-40D8-A423-A9D0277CAEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAEBD24-8850-40D8-A423-A9D0277CAEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAEBD24-8850-40D8-A423-A9D0277CAEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F0DA89-E452-4AAC-98C7-6404C407104F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F0DA89-E452-4AAC-98C7-6404C407104F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F0DA89-E452-4AAC-98C7-6404C407104F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F0DA89-E452-4AAC-98C7-6404C407104F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196E300B-6EA8-4FFC-B34B-CAE4B363BAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196E300B-6EA8-4FFC-B34B-CAE4B363BAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196E300B-6EA8-4FFC-B34B-CAE4B363BAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196E300B-6EA8-4FFC-B34B-CAE4B363BAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C615505-3B68-4FF3-AB9A-042C5B395F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C615505-3B68-4FF3-AB9A-042C5B395F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C615505-3B68-4FF3-AB9A-042C5B395F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C615505-3B68-4FF3-AB9A-042C5B395F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6ABDDBB-C16A-4459-9619-03EE09D5D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ABDDBB-C16A-4459-9619-03EE09D5D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ABDDBB-C16A-4459-9619-03EE09D5D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ABDDBB-C16A-4459-9619-03EE09D5D983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C12DDE-6DB3-4131-BF92-00F605A2269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C12DDE-6DB3-4131-BF92-00F605A2269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C12DDE-6DB3-4131-BF92-00F605A2269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C12DDE-6DB3-4131-BF92-00F605A2269C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63858FCB-4CC8-47B5-8780-C0A7757B0B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63858FCB-4CC8-47B5-8780-C0A7757B0B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63858FCB-4CC8-47B5-8780-C0A7757B0B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63858FCB-4CC8-47B5-8780-C0A7757B0B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8F24E9-EC2B-4E52-A3ED-C33D2BC28F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8F24E9-EC2B-4E52-A3ED-C33D2BC28F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8F24E9-EC2B-4E52-A3ED-C33D2BC28F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8F24E9-EC2B-4E52-A3ED-C33D2BC28F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9880769-DD53-4FEE-8AF5-C963A8F1D628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9880769-DD53-4FEE-8AF5-C963A8F1D628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9880769-DD53-4FEE-8AF5-C963A8F1D628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9880769-DD53-4FEE-8AF5-C963A8F1D628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF80729-A034-424B-8F18-AD906858A158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF80729-A034-424B-8F18-AD906858A158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF80729-A034-424B-8F18-AD906858A158}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4AF80729-A034-424B-8F18-AD906858A158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF80729-A034-424B-8F18-AD906858A158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF80729-A034-424B-8F18-AD906858A158}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

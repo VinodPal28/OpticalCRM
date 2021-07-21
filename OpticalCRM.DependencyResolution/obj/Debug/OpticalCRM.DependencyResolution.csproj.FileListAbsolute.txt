@@ -1,0 +1,4 @@
+E:\GIT\OpticalCRM\OpticalCRM.DependencyResolution\bin\Debug\OpticalCRM.DependencyResolution.dll
+E:\GIT\OpticalCRM\OpticalCRM.DependencyResolution\bin\Debug\OpticalCRM.DependencyResolution.pdb
+E:\GIT\OpticalCRM\OpticalCRM.DependencyResolution\obj\Debug\OpticalCRM.DependencyResolution.dll
+E:\GIT\OpticalCRM\OpticalCRM.DependencyResolution\obj\Debug\OpticalCRM.DependencyResolution.pdb

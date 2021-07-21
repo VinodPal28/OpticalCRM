@@ -1,0 +1,10 @@
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\OpticalCRM.EntityFramework.dll.config
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\OpticalCRM.EntityFramework.dll
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\OpticalCRM.EntityFramework.pdb
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\EntityFramework.dll
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\EntityFramework.xml
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\obj\Debug\OpticalCRM.EntityFramework.csprojResolveAssemblyReference.cache
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\obj\Debug\OpticalCRM.EntityFramework.dll
+E:\GIT\OpticalCRM\OpticalCRM.EntityFramework\obj\Debug\OpticalCRM.EntityFramework.pdb

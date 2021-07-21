@@ -1,0 +1,17 @@
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.Logs.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.Logs.pdb
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.Data.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.EntityFramework.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.Resources.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\AutoMapper.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\EntityFramework.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.Data.pdb
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.EntityFramework.pdb
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\OpticalCRM.Resources.pdb
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\AutoMapper.xml
+E:\GIT\OpticalCRM\OpticalCRM.Logs\bin\Debug\EntityFramework.xml
+E:\GIT\OpticalCRM\OpticalCRM.Logs\obj\Debug\OpticalCRM.Logs.csprojResolveAssemblyReference.cache
+E:\GIT\OpticalCRM\OpticalCRM.Logs\obj\Debug\OpticalCRM.Logs.dll
+E:\GIT\OpticalCRM\OpticalCRM.Logs\obj\Debug\OpticalCRM.Logs.pdb
